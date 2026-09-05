@@ -1,0 +1,6 @@
+{
+  "name": "WildGuard AI",
+  "description": "Real-time wildlife intrusion alert system streaming AI sightings, threat levels, and interactive radar map.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
